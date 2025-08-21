@@ -1,0 +1,2 @@
+tellraw @a [{"text":"数据包："},{"text":"五","color":"red"},{"text":"颜","color":"gold"},{"text":"六","color":"yellow"},{"text":"色","color":"green"},{"text":"的","color":"blue"},{"text":"地","color":"aqua"},{"text":"毯","color":"light_purple"},{"text":"加载完毕！"}]
+tellraw @a [{"text":"作者：FeSo4a","color":"light_purple","bold":true}]
