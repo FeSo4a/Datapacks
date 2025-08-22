@@ -1,0 +1,1 @@
+bossbar set gm_help players @a

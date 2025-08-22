@@ -1,0 +1,1 @@
+bossbar remove gm_help
