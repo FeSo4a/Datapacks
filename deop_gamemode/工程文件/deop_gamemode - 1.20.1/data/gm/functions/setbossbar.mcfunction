@@ -1,1 +1,0 @@
-bossbar add gm_help {"text":"按T打开聊天栏输入/trigger gm_help查看帮助！"}
